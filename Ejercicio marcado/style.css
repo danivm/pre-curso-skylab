@@ -1,0 +1,26 @@
+h1 {
+	color: green;
+}
+h2 {
+	color: green;
+}
+.bold {
+	color: orange;
+	font-weight: bold;
+}
+.cursive {
+	color: orange;
+	font-style: italic;
+}
+table, th, td {
+   border: 1px solid black;
+}
+td {
+	color: purple;
+}
+form {
+	color: DarkRed;
+}
+label {
+	border: 1px solid black;
+}

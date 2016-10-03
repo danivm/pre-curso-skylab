@@ -1,0 +1,22 @@
+nav {
+	background-color: black;
+	height: 60px;
+}
+
+nav ul{
+   list-style-type: none;
+   text-align: right;
+   padding: 20px;
+   height: 20px;
+}
+nav li{
+   display: inline;
+   text-align: center;
+   color: green;
+   padding: 0 10px 0 10px;
+   font-family: 'Oswald';
+}
+header {
+	position: absolute;
+	background-color: orange;
+}
